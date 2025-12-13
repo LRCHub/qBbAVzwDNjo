@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドリーム・キス",
+  "base_artist": "吐息.",
+  "createdAt": "2025-12-13T12:12:04.766263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドリーム・キス",
+      "artist": "吐息.",
+      "has_synced": false,
+      "path": "select/pl_01_ドリーム・キス_吐息..txt"
+    }
+  ]
+}
